@@ -1,12 +1,13 @@
-# Vladimir Color Theme for `vscode`
+# Table of Contents
 - [Description](#description "Description")
-- [Install](#install "Install")
+- [Installation](#installation "Installation")
+- [Vladimir vscode theme](#vladimir-vscode-theme "Vladimir vscode theme")
 
 
 # Description
 Vladimir Color Theme is inspired by `Dusk` combined with the `Dracula` theme.
 
-# Install
+# Installation
 ### 1. Clone repository:
 ```
 git clone https://github.com/malloc314/Vladimir-vscode-theme
@@ -23,5 +24,7 @@ code --install-extension vladimir-theme-0.0.1.vsix
 + Press `cmd+shift+p`
 + Type `Preferences: Color Theme`
 + Choice `Vladimir`
+
+# Vladimir vscode theme:
 
 ![](https://raw.githubusercontent.com/malloc314/Vladimir-vscode-theme/master/vladimir-theme.png)
