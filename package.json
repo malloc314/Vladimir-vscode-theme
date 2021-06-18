@@ -1,0 +1,32 @@
+{
+    "name": "vladimir-theme",
+    "displayName": "Vladimir theme",
+    "description": "Vladimir's color theme is inspired by Dusk combined with the Dracula theme",
+    "publisher": "malloc314",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.57.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/malloc314/Vladimir-vscode-theme"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "xcode",
+        "dusk",
+        "dracula",
+        "color theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Vladimir",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Vladimir-color-theme.json"
+            }
+        ]
+    }
+}
