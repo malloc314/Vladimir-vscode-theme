@@ -23,3 +23,5 @@ code --install-extension vladimir-theme-0.0.1.vsix
 + Press `cmd+shift+p`
 + Type `Preferences: Color Theme`
 + Choice `Vladimir`
+
+![](https://raw.githubusercontent.com/malloc314/Vladimir-vscode-theme/master/vladimir-theme.png)
