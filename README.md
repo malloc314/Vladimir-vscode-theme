@@ -28,4 +28,4 @@ code --install-extension vladimir-theme-0.0.1.vsix
 
 # Vladimir vscode theme:
 
-![](https://raw.githubusercontent.com/malloc314/Vladimir-vscode-theme/master/vladimir-theme.png)
+![](https://raw.githubusercontent.com/malloc314/Vladimir-vscode-theme/master/vladimir-vscode-theme.png)
