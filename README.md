@@ -22,8 +22,9 @@ code --install-extension vladimir-theme-0.0.1.vsix
 ```
 ### 4. Set new theme in vscode:
 + Press `cmd+shift+p`
-+ Type `Preferences: Color Theme`
-+ Choice `Vladimir`
++ Typein `Preferences: Color Theme`
++ Select `Vladimir`
++ Confirm `enter`
 
 # Vladimir vscode theme:
 
